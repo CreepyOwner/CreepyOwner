@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Radek</h1>
-<h3 align="left">I've always been interested in electronics and computers. 4 years ago I started studying computer science, but the methods presented were outdated, and the studying itself gave me no satisfaction. That's why after 2 years I quit college and started my own adventure as a developer.</h3>
+<h4 align="left">I've always been interested in electronics and computers. 4 years ago I started studying computer science, but the methods presented were outdated, and the studying itself gave me no satisfaction. That's why after 2 years I quit college and started my own adventure as a developer.</h4>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=creepyowner&label=Profile%20views&color=0e75b6&style=flat"
